@@ -1,0 +1,39 @@
+OverallQual
+总体质量：对房子的整体材料和装修进行评分
+10非常好
+9优秀
+8非常好
+7善
+平均以上6
+5平均值
+低于平均值4
+3届博览会
+2穷人
+1非常贫穷
+
+生活区域面积
+GrLivArea: Above grade (ground) living area square feet
+
+车库面积大小
+GarageCars: Size of garage in car capacity
+
+地下室面积
+TotalBsmtSF: Total square feet of basement area
+
+浴室：浴室等级
+FullBath: Full bathrooms above grade
+
+建造年份：原始建造日期
+YearBuilt: Original construction date
+
+SaleType：销售类型：
+        WD保修契约 - 常规
+        CWD保修契约 - 现金
+        VWD保修契约 -  VA贷款
+        新房屋刚刚建成并出售
+        COD法院官员契约/遗产
+        Con Contract 15％首付常规条款
+        合同低首付和低利息
+        ConLI合约低利率
+        ConLD合约低跌
+       OTH其他
